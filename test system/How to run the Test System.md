@@ -1,11 +1,11 @@
-### Our research focuses on the following four research questions:
+### macOS
 
+If you want to run the test system on macOS you need Universal Transverse Mercator or UTM. UTM is Virtual Machines for Mac. NordVPN must be installed inside the virtual machine.
 
-1. How does Flexible Public-Key Infrastructure (F-PKI) affect the performance and security of web browsing?   
+### Test System
 
-2. In the context of Flexible Public-Key Infrastructure (F-PKI), does the user experience any difference in initial response time   when browsing the website from different geographical locations?  
+This test system take the website statistical information at once from one country. 
 
-3. Can F-PKI affect the page loading time of a website when accessed from different locations?  
+### Test System Version 2.0
 
-4. When a website is accessed from a variety of locations, how does F-PKI affect the time it takes to load dependency or  external resources such as scripts or stylesheets? 
-
+This updated test system takes the website statistical information at multiple times from one country.
